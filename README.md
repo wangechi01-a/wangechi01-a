@@ -1,8 +1,7 @@
-### Hi there 👋, Eunice Muriithi
+### Hi there 👋, My name is Eunice Muriithi
 #### I am a Data Scientist, ML and AI Engineer
 
 I am a seasoned Data Scientist and Machine Learning Engineer with a passion for transforming raw data into actionable insights and building intelligent systems. With a strong foundation in statistics, programming, and machine learning, I thrive on leveraging data-driven approaches to solve complex problems and drive innovation.
-I'm eager to join forward-thinking teams and projects, bringing my skills and insights to the table.
 
 Skills: Python, SQL, Data Analytics, Machine learning, Deep Learning(Tensorflow, Keras, pytorch), Gen AI
 
