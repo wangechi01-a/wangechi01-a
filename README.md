@@ -6,3 +6,4 @@
 - You can find me on linkedin at https://www.linkedin.com/in/eunice-muriithi-8433b5272/ or my email  at wangechieunice0@gmail.com
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangechi01-a)](https://github.com/anuraghazra/github-readme-stats)
   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Eunice Muriithi/)  
