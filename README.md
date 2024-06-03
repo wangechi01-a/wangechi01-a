@@ -1,5 +1,4 @@
-## Hi there 👋
-My name is Eunice Muriithi
+## Hi there 👋, My name is Eunice Muriithi
 - I’m a Data Scientist with expertise in data analysis, statistical modeling, and data visualization.
 - Skilled in applying ML and DL techniques to solve real-world problems.
 - I'm currently learning and perfecting my skills in AI.
