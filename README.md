@@ -3,7 +3,7 @@ I am a seasoned Data Scientist, ML and AI Engineer with a passion for transformi
 
 Skills: Python, SQL, Data Analytics(Numpy, Pandas, Matplotlib, PowerBi), Machine learning, Deep Learning(Tensorflow, Keras, pytorch), Gen AI
 
-- 🔭 I’m currently working on Zindi AirQo Challenge and other ML and DL projects. 
+- 🔭 I’m currently working on Zindi AirQo Challenge and other ML and DL personal projects. 
 - 🌱 I’m currently learning Gen AI 
 - 👯 I’m looking to collaborate on ML, DL and AI 
 - 📫 How to reach me wangechieunice0@gmail.com
