@@ -5,6 +5,7 @@ I am a seasoned Data Scientist, ML and AI Engineer with a passion for transformi
 - 🌱 I’m currently learning Gen AI 
 - 👯 I’m looking to collaborate on ML, DL and AI 
 - 📫 How to reach me wangechieunice0@gmail.com
+
 Skills: Python, SQL, Data Analytics(Numpy, Pandas, Matplotlib, PowerBi), Machine learning, Deep Learning(Tensorflow, Keras, pytorch), Gen AI
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wangechi01-a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Eunice Muriithi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wange_shie/) 
