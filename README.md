@@ -8,7 +8,6 @@ I am a seasoned Data Scientist, ML and AI Engineer with a passion for transformi
 
 Skills: Python, SQL, Data Analytics(Numpy, Pandas, Matplotlib, PowerBi), Machine learning, Deep Learning(Tensorflow, Keras, pytorch), Gen AI
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wangechi01-a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Eunice Muriithi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wange_shie/) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangechi01-a&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangechi01-a)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=wangechi01-a)  
