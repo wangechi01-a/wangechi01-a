@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Eunice Muriithi
 I am a Data Scientist, ML and AI EngIneer with a passion for transforming raw data into actionable insights and building intelligent systems. With a strong foundation in statistics, programming, and machine learning, I thrive on leveraging data-driven approaches to solve complex problems and drive innovation.
 
--  I’m currently working on Zindi projects and other ML and DL personal projects. 
+-  I’m currently working on Zindi projects and other ML and DL personal projects.  
 -  I’m currently learning Gen AI 
 -  I’m looking to collaborate on ML, DL and AI 
 -  How to reach me wangechieunice0@gmail.com
