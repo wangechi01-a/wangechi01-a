@@ -9,5 +9,5 @@ I am a Data Scientist, ML and AI Engineer with a passion for transforming raw da
 Skills: Python, SQL, Data Analytics(Numpy, Pandas, Matplotlib, PowerBi), Machine learning, Deep Learning(Tensorflow, Keras, pytorch), Gen AI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangechi01-a)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=wangechi01-a)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=wangechi01-a)   
 
