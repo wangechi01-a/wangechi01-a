@@ -6,7 +6,7 @@ I am a driven and motivated Data Scientist, ML Engineer with a passion for trans
 -  I’m looking to collaborate on ML, DL and AI 
 -  How to reach me wangechieunice0@gmail.com
 
-Skills: Python, SQL, Data Analytics(Numpy, Pandas, Matplotlib, PowerBi), Machine learning, Deep Learning(Tensorflow, Keras, pytorch), Gen AI
+Skills: Python, SQL, Data Analytics(Numpy, Pandas, Matplotlib, PowerBi), Machine learning, Deep Learning, Natural Language Processing(NLP), Gen AI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangechi01-a)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=wangechi01-a)   
